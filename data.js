@@ -38,7 +38,7 @@ export default [
         country: "California",
         googleMapsLink: "https://maps.app.goo.gl/fhkJuBhmFDv47tiB7",
         dates: "08 Jan, 1946 – Present",
-        text: "Robbie was the left-hand guy for Jimothy. Since the Jimothy client list never dropped, we still don’t know what he was really up to, but Robbie was the one doing the dirty work for him. The command for Robbie to act was always: “Do it, Robbie. Do it!” which would trigger his MKUltra programming and make him obey whatever his master wanted. Oh, and yeah, he played guitar."
+        text: "Robbie was the right-hand man for Jimothy. Since the Jimothy client list never dropped, we still don’t know what he was really up to, but Robbie was the one doing the dirty work for him. The command for Robbie to act was always: “Do it, Robbie. Do it!” which would trigger his MKUltra programming and make him obey whatever his master wanted. Oh, and yeah, he played guitar."
     },
     {
         id: 4,
