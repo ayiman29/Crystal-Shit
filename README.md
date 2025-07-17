@@ -1,19 +1,48 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Crystal Shit Travel Journal (React Project)
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Oh hey Jack, this is a React-based travel journal website made based on Scrimba's React course project - Travel Journal.  
+This project was created to gain hands-on experience working with React. 
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🚀 How to Run the Project
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+To run this project locally:
 
-Happy Coding!
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/ayiman29/Crystal-Shit.git
+   cd Crystal-Shit
+   ```
+
+2. **Install dependencies**
+   Make sure you have Node.js installed. Then run:
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and visit `http://localhost:5173` (or whatever URL Vite provides).
+
+---
+
+## 📚 Based On Scrimba's React Course
+
+This project was originally built as part of [Scrimba's Learn React](https://scrimba.com/learn-react-c0e) course.
+
+* The base layout and structure were taken from the travel journal project taught in the course.
+* I modified and customized it to match my own creative (and chaotic) direction.
+* All credit to the amazing Scrimba instructors for the foundation.
+
+---
+
+## 🛠️ Tech Stack
+
+* React (with functional components & props)
+* Vite (for fast development)
+* CSS (custom styling)
+
