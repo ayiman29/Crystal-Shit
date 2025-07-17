@@ -3,6 +3,7 @@
 Oh hey Jack, this is a React-based travel journal website made based on Scrimba's React course project - Travel Journal.  
 This project was created to gain hands-on experience working with React. 
 
+🌐 **Live Site:** [https://crystalshit.netlify.app](https://crystalshit.netlify.app/)
 ## 🚀 How to Run the Project
 
 To run this project locally:
@@ -27,6 +28,13 @@ To run this project locally:
    ```
 
 4. Open your browser and visit `http://localhost:5173` (or whatever URL Vite provides).
+
+---
+
+## 🚀 Live Demo
+
+Check out the live deployed version here:
+[https://crystalshit.netlify.app/](https://crystalshit.netlify.app/)
 
 ---
 
