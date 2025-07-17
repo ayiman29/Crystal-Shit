@@ -1,8 +1,13 @@
+import jimmyImg from './images/jimmy.png';
+import reimannImg from './images/reimann.png';
+import robbieImg from './images/robbie.png';
+import johnImg from './images/John Densmore.png';
+
 export default [
     {
         id: 1,
         img: {
-            src: "./images/jimmy.png",
+            src: jimmyImg,
             alt: "Jim Morrison"
         },
         title: "Jimothy Morrison",
@@ -14,7 +19,7 @@ export default [
     {
         id: 2,
         img: {
-            src: "./images/reimann.png",
+            src: reimannImg,
             alt: "Ray Manzarek"
         },
         title: "Reimann Zarek",
@@ -26,8 +31,8 @@ export default [
     {
         id: 3,
         img: {
-            src: "./images/robbie.png",
-            alt: "robbie"
+            src: robbieImg,
+            alt: "Robbie"
         },
         title: "Robbie",
         country: "California",
@@ -38,7 +43,7 @@ export default [
     {
         id: 4,
         img: {
-            src: "./images/John Densmore.png",
+            src: johnImg,
             alt: "John Densmore"
         },
         title: "Jonathan Densmore",
