@@ -1,4 +1,4 @@
-# Crystal Shit Travel Journal (React Project)
+# Crystal Shit - THE BEST COVER BAND (React Project)
 
 Oh hey Jack, this is a React-based travel journal website made based on Scrimba's React course project - Travel Journal.  
 This project was created to gain hands-on experience working with React. 
